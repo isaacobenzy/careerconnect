@@ -211,7 +211,7 @@ export default function JobListingPage() {
         {/* Featured Jobs Section */}
         <section className="mb-12">
           <h2 className="text-2xl font-semibold text-gray-900 mb-6">Featured Jobs</h2>
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+          <div className="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-6">
             {featuredJobs.map((job) => (
               <JobCard key={job.id} job={job} featured={true} />
             ))}

@@ -2,7 +2,7 @@
 
 CareerConnect is a modern job board platform built with Next.js, TypeScript, and Tailwind CSS. It provides a seamless experience for job seekers to discover and apply for opportunities across various industries.
 
-![CareerConnect Screenshot](public/screenshot.png)
+![CareerConnect Screenshot](public/ScreenShot.png)
 
 ## 🌟 Features
 

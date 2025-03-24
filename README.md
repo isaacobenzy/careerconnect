@@ -18,7 +18,9 @@ CareerConnect is a modern job board platform built with Next.js, TypeScript, and
 ## 🚀 Live Demo
 
 Check out the live demo: [CareerConnect Demo]
-(https://careerconnect-demo.vercel.app)
+(https://careerconnect-topaz.vercel.app/)
+
+
 
 ## 🎨 Design
 
